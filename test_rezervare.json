@@ -1,0 +1,114 @@
+{
+    "1002": {
+        "py/object": "Domain.rezervare.Rezervare",
+        "id_entity": "1002",
+        "id_film": "1009",
+        "id_card_client": "1006",
+        "data": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+ULDQ=="
+                ]
+            ]
+        },
+        "ora": {
+            "py/object": "datetime.time",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.time"
+                },
+                [
+                    "DBYAAAAA"
+                ]
+            ]
+        }
+    },
+    "1003": {
+        "py/object": "Domain.rezervare.Rezervare",
+        "id_entity": "1003",
+        "id_film": "1005",
+        "id_card_client": "1006",
+        "data": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UMDQ=="
+                ]
+            ]
+        },
+        "ora": {
+            "py/object": "datetime.time",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.time"
+                },
+                [
+                    "FiAAAAAA"
+                ]
+            ]
+        }
+    },
+    "1004": {
+        "py/object": "Domain.rezervare.Rezervare",
+        "id_entity": "1004",
+        "id_film": "1009",
+        "id_card_client": "1006",
+        "data": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UMDg=="
+                ]
+            ]
+        },
+        "ora": {
+            "py/object": "datetime.time",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.time"
+                },
+                [
+                    "DDQAAAAA"
+                ]
+            ]
+        }
+    },
+    "1005": {
+        "py/object": "Domain.rezervare.Rezervare",
+        "id_entity": "1005",
+        "id_film": "1006",
+        "id_card_client": "1006",
+        "data": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UMEA=="
+                ]
+            ]
+        },
+        "ora": {
+            "py/object": "datetime.time",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.time"
+                },
+                [
+                    "DhYAAAAA"
+                ]
+            ]
+        }
+    }
+}

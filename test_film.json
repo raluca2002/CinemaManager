@@ -1,0 +1,26 @@
+{
+    "1005": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "1005",
+        "titlu": "Omul",
+        "an_aparitie": 1971,
+        "pret_bilet": 24.5,
+        "in_program": true
+    },
+    "1006": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "1006",
+        "titlu": "Fulgi de hartie",
+        "an_aparitie": 1969,
+        "pret_bilet": 29.5,
+        "in_program": true
+    },
+    "1009": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "1009",
+        "titlu": "Mintea",
+        "an_aparitie": 1979,
+        "pret_bilet": 20.0,
+        "in_program": true
+    }
+}

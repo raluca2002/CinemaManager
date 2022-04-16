@@ -1,0 +1,182 @@
+{
+    "11": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "11",
+        "nume": "ddd",
+        "prenume": "sss",
+        "CNP": 1243576890143,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9AICw=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+QIFg=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 10002
+    },
+    "111": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "111",
+        "nume": "fff",
+        "prenume": "ddd",
+        "CNP": 2543876905176,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9IGCw=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UGCw=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 11004
+    },
+    "999": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "999",
+        "nume": "tt",
+        "prenume": "dd",
+        "CNP": 2543987651067,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9IHFg=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UGDg=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 11003
+    },
+    "222": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "222",
+        "nume": "fgg",
+        "prenume": "jhh",
+        "CNP": 1237659873457,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9IJFg=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+QJDA=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 10000
+    },
+    "5": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "5",
+        "nume": "ahs",
+        "prenume": "rghjsk",
+        "CNP": 2348761590253,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9IJFg=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UJDA=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 10000
+    },
+    "66": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "66",
+        "nume": "fdgshjak",
+        "prenume": "tyruei",
+        "CNP": 3417824390651,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B9AJFg=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UJDg=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 10000
+    }
+}

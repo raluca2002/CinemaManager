@@ -1,0 +1,34 @@
+{
+    "1": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "1",
+        "titlu": "ssss",
+        "an_aparitie": 2021,
+        "pret_bilet": 33.0,
+        "in_program": true
+    },
+    "2": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "2",
+        "titlu": "jhgf",
+        "an_aparitie": 2020,
+        "pret_bilet": 22.0,
+        "in_program": true
+    },
+    "22": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "22",
+        "titlu": "ddd",
+        "an_aparitie": 2020,
+        "pret_bilet": 22.0,
+        "in_program": true
+    },
+    "113": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "113",
+        "titlu": "gdhj",
+        "an_aparitie": 2020,
+        "pret_bilet": 33.0,
+        "in_program": true
+    }
+}

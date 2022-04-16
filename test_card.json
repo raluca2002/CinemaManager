@@ -1,0 +1,32 @@
+{
+    "1006": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "1006",
+        "nume": "Cioban",
+        "prenume": "Alin",
+        "CNP": 2981103064557,
+        "data_nasterii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B84LAw=="
+                ]
+            ]
+        },
+        "data_inregistrarii": {
+            "py/object": "datetime.date",
+            "__reduce__": [
+                {
+                    "py/type": "datetime.date"
+                },
+                [
+                    "B+UMFQ=="
+                ]
+            ]
+        },
+        "puncte_acumulate": 22
+    }
+}
